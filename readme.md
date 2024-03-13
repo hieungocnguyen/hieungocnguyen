@@ -1,3 +1,3 @@
 <div align="center">
-<img src="https://cdn.dribbble.com/users/891352/screenshots/3118306/media/e878a881ba9e914061a75d77154207e6.gif" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" alt="drawing" width="120"/>
 <div/>
