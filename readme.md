@@ -1,3 +1,15 @@
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216649430-0a912dae-e61b-45cf-8f65-895bd6444f3a.gif" alt="drawing" width="120"/>
-<div/>
+<p align="center">
+   <samp><br>
+   Hey there, I'm Hieu Nguyen!
+   <br>
+   </samp>
+<p align="center"><samp>
+   <a href="https://twitter.com/ngnohieu">twitter</a>
+   ·
+   <a href="https://www.linkedin.com/in/louise-heide-%C3%A5kerman-0954421a5/">linkedin</a>
+   </samp>
+  <br>
+  <br>
+   
+</p>
+</p>
