@@ -1,6 +1,8 @@
 <p align="center">
-   <samp><br>
-   Hey there! I'm Hieu Nguyen, a passionate web developer dedicated to crafting meaningful digital experiences. 
+   <samp>
+   👋 Hey there! I'm Hieu Nguyen,
+   <br>
+   A passionate web developer dedicated to crafting meaningful digital experiences.💻
    <br>
    </samp>
 <p align="center"><samp>
