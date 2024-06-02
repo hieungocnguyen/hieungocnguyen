@@ -2,7 +2,7 @@
    <samp>
    👋 Hey there! I'm Hieu Nguyen,
    <br>
-   A passionate web developer dedicated to crafting meaningful digital experiences.💻
+   A passionate web developer dedicated to crafting meaningful digital experiences.
    <br>
    </samp>
 <p align="center"><samp>
