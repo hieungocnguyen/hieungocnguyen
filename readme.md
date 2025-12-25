@@ -6,7 +6,7 @@
    <br>
    </samp>
 <p align="center"><samp>
-   <a href="https://twitter.com/ngnohieu">twitter</a>
+   <a href="https://twitter.com/ngnohieu">X</a>
    ·
    <a href="https://www.linkedin.com/in/louise-heide-%C3%A5kerman-0954421a5/">linkedin</a>
    </samp>
